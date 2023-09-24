@@ -1,0 +1,24 @@
+/* Dashboard.css */
+
+.dashboard-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .dashboard-btn {
+    background-color: #e07f2f; /* Blue button color */
+    color: #fff; /* White text color */
+    padding: 70px 50px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .dashboard-btn:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  
